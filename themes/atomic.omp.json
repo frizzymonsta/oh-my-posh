@@ -63,9 +63,9 @@
           "trailing_diamond": "\ue0b4",
           "type": "executiontime",
           "properties": {
-          "always_enabled": true,
-           "template": "\ufbab\u2800"
-        }
+            "always_enabled": true,
+            "template": "\ufbab\u2800"
+          }
       ],
       "type": "prompt"
     },
