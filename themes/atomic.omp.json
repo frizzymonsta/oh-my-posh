@@ -61,7 +61,10 @@
           "style": "diamond",
           "template": " \ufa1e{{ .FormattedMs }}\u2800",
           "trailing_diamond": "\ue0b4",
-          "type": "executiontime"
+          "type": "executiontime",
+          "properties": {
+          "always_enabled": true,
+           "template": "\ufbab\u2800"
         }
       ],
       "type": "prompt"
